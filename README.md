@@ -1,4 +1,4 @@
-# BUDO EASY TOOL - Official Update Server
+# JVS KING MOVIE ONLINE TZ - Official Update Server
 
 Official update manifests and device database.
 
