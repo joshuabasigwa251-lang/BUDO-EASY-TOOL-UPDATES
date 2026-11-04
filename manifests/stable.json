@@ -10,7 +10,8 @@
     "release_notes": "Initial update server setup."
   },
   "database": {
-    "version": "1.0.0",
-    "url": "https://github.com/joshuabasigwa251-lang/BUDO-EASY-TOOL-UPDATES"
+    "version": "1.0.1",
+    "url": "https://github.com/joshuabasigwa251-lang/BUDO-EASY-TOOL-UPDATES",
+    "catalog_url": "https://raw.githubusercontent.com/joshuabasigwa251-lang/BUDO-EASY-TOOL-UPDATES/main/database/devices/catalog.json"
   }
 }

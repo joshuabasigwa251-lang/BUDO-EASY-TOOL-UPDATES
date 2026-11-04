@@ -1,0 +1,34 @@
+{
+  "product": "JVS KING MOVIE ONLINE TZ",
+  "database_version": "1.0.1",
+  "schema_version": 1,
+  "brands": [
+    "Samsung",
+    "TECNO",
+    "Infinix",
+    "itel",
+    "OPPO",
+    "vivo",
+    "Xiaomi",
+    "Redmi",
+    "POCO",
+    "Realme",
+    "OnePlus",
+    "Motorola",
+    "Nokia",
+    "Huawei",
+    "ZTE",
+    "Google Pixel"
+  ],
+  "android_platforms": [
+    "Android 12",
+    "Android 13",
+    "Android 14",
+    "Android 15",
+    "Android 16",
+    "Android 17",
+    "Android 18"
+  ],
+  "models": [],
+  "support_note": "Platform listings are not confirmation of device servicing support. Each model requires protocol and hardware validation."
+}
