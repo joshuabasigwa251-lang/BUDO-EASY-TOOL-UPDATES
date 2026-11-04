@@ -38,5 +38,5 @@
     "Android 18"
   ],
   "models": [],
-  "support_note": "Android versions are catalog coverage targets, not confirmed servicing support. Add future Android versions without a fixed upper limit. Each device requires protocol and hardware validation."
+  "support_note": "Android versions are catalog coverage targets, not confirmed servicing support. Future versions can be added without a fixed upper limit. Each device requires protocol and hardware validation."
 }
