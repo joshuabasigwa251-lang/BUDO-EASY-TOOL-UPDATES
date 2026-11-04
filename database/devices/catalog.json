@@ -1,6 +1,6 @@
 {
   "product": "JVS KING MOVIE ONLINE TZ",
-  "database_version": "1.0.1",
+  "database_version": "1.0.2",
   "schema_version": 1,
   "brands": [
     "Samsung",
@@ -37,6 +37,467 @@
     "Android 17",
     "Android 18"
   ],
-  "models": [],
+  "models": [
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2010,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S II",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2011,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S III",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2012,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S4",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2013,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S5",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2014,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S6",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2015,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S6 edge",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2015,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S6 edge+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2015,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S7",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2016,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S7 edge",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2016,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S8",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2017,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S8+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2017,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S9",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2018,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S9+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2018,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S10e",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2019,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S10",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2019,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S10+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2019,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S10 5G",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2019,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2020,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2020,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20 Ultra",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2020,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S20 FE",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2020,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2021,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2021,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21 Ultra",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2021,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S21 FE",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2022,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S22",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2022,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S22+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2022,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S22 Ultra",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2022,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2023,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2023,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23 Ultra",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2023,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S23 FE",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2023,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S24",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2024,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S24+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2024,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S24 Ultra",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2024,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S24 FE",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2024,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2025,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2025,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25 Ultra",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2025,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25 Edge",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2025,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S25 FE",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2025,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S26",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2026,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S26+",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2026,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S26 Ultra",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2026,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    },
+    {
+      "brand": "Samsung",
+      "model": "Galaxy S26 FE",
+      "series": "Galaxy S",
+      "device_type": "Smartphone",
+      "launch_year": 2026,
+      "source": "Samsung official release history",
+      "source_url": "https://www.samsung.com/ae/mobile-phone-buying-guide/best-samsung-s-series-phone/",
+      "verification_status": "release_year_recorded"
+    }
+  ],
   "support_note": "Android versions are catalog coverage targets, not confirmed servicing support. Future versions can be added without a fixed upper limit. Each device requires protocol and hardware validation."
 }
