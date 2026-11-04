@@ -21,6 +21,14 @@
     "Google Pixel"
   ],
   "android_platforms": [
+    "Android 4.x",
+    "Android 5",
+    "Android 6",
+    "Android 7",
+    "Android 8",
+    "Android 9",
+    "Android 10",
+    "Android 11",
     "Android 12",
     "Android 13",
     "Android 14",
@@ -30,5 +38,5 @@
     "Android 18"
   ],
   "models": [],
-  "support_note": "Platform listings are not confirmation of device servicing support. Each model requires protocol and hardware validation."
+  "support_note": "Android versions are catalog coverage targets, not confirmed servicing support. Add future Android versions without a fixed upper limit. Each device requires protocol and hardware validation."
 }
