@@ -1,0 +1,16 @@
+{
+  "product": "BUDO EASY TOOL",
+  "channel": "stable",
+  "manifest_version": 1,
+  "latest_version": "1.0.0",
+  "minimum_updater_version": "1.0.0",
+  "release": {
+    "download_url": null,
+    "sha256": null,
+    "release_notes": "Initial update server setup."
+  },
+  "database": {
+    "version": "1.0.0",
+    "url": "https://github.com/joshuabasigwa251-lang/BUDO-EASY-TOOL-UPDATES"
+  }
+}
